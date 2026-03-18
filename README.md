@@ -231,11 +231,10 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 ### OUTPUT:
 
 ## Loss Vs Epoch Plot
-
-
+<img width="764" height="615" alt="image" src="https://github.com/user-attachments/assets/a340324f-7d7a-4d32-90e0-46901e290da7" />
 
 ### Sample Text Prediction
-
+<img width="426" height="522" alt="image" src="https://github.com/user-attachments/assets/a0eb4a6a-7486-4f05-bf52-43d81fedf998" />
 
 ## RESULT:
 The LSTM-based deep learning model successfully identified named entities such as person, location, and organization from text data with good accuracy.
